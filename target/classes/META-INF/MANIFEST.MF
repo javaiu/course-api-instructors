@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: course-api-instructors
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wasperf
+Implementation-Vendor-Id: com.javainuse.springbootquickstart
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/course-api-instructors
+Created-By: Maven Integration for Eclipse
+
